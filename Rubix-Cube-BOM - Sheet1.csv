@@ -1,0 +1,14 @@
+Part Name,Quantity,Purpose,Source (Company),Cost,Shipping,Total
+CAD,1x,Shell,JLCPCB,Estimate: $30,$0,$30
+Soldering Kit,1x,Soldering,Amazon,$10,$0 (PRIME),$10
+Screws,4x,Shell Lid,Home Depot(?),$3,$0 (in person),$3
+ESP32,1x,Microcontroller,Amazon,$9.50,$0 (PRIME),$9.50
+Perfboard,1x,Homemade PCBboard (time constraint),AliExpress,$1.53,$0 (New Discount),$1.53
+Perma-Proto Board,1x,Simpler Homemade PCBboard,Adafruit,$5,$0 (w/Neo),$5
+MtoM Jumper Cables,A lot,Connecting (via soldering) components,AliExpress,$1.53,$0 (New Discount),$1.53
+Pin Headers,A lot,Connecting (via soldering) components to board (ex: ESP32),AliExpress,$0.73,$0 (New Discount),$0.73
+(5v) BatteryBank,1x,Used to power the Neopixels,Amazon,$10,$0 (prime),$10
+(3.3v) BatteryLipo,1x,Used to power the ESP32,Amazon,$7,$0 (prime),$7
+Neopixels 10 pck,6x,LED choice for RubiX Cube,Adafruit,$29.70,$18.36 w/others,$48.06
+Acrylic Sheets,6x,Provides a nice display finish,Friend :D,$3-5,$0 (Outpost),$3-5
+Totals,,,,,,126.35
