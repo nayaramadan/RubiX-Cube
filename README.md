@@ -46,5 +46,20 @@ ____
 Maybe the pixel LEDs were still an option? They sounded really cool... the touchscreen issues that I'd have to deal with did not.
 So, I ended up joining the KiCad Discord to ask for their opinions.
 <img width="825" height="668" alt="First Message" src="Images\5ideachange.png" />
+TFT and microcontroller? I was thinking to use a raspberry pi or arduino... mini computers.
+<img width="825" height="668" alt="First Message" src="Images\6ideachange.png" />
+<img width="825" height="668" alt="First Message" src="Images\7ideachange.png" />
+Finally, I drew a diagram.
+<img width="825" height="668" alt="First Message" src="Images\8whattheheeeehllllll.png" />
+💀 Don't worry I was flamed for this respectfully.
+But I also learned a lot from our conversation and got advice on what to do.
+After thiw discord conversations, I got this:
+<img width="825" height="668" alt="First Message" src="Images\9notes.png" />
+Then after a conversation on Slack, I was convinced.
+I should do idea 1.
+Idea 2 was elimated.
+____
+
+<h3> The New Research </h3>
 
 _____________________________________________________________________________________________

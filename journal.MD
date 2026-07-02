@@ -33,7 +33,7 @@ ____
 I ultimately decided to settle for option 2; although many wanted to see option 1 come to life, many also wanted to see option 2 (including me) and I was confused about how to approach idea 1. Additionally, I was already looking at examples (that were difficult to find), like the WOWCube on Amazon. ($400????)
 So I ended up asking about idea 2 before pursuing.
 <img width="825" height="668" alt="First Message" src="Images\3ideaasking.png" />
-At this point, I was *somewhat* set in stone with my choice. I knew nothing other than I'd probably need an MCU, such as the ESP32.
+At this point, I was *somewhat* set in stone with my choice. I knew nothing other than I'd probably need an MCU, such as the ESP32. I did a lot of research on idea 2.
 Or multiple ESP32s? How would I power all the displays? Raspberry PI??
 Those are extremely unlikely to recieve funding. Plus would be a bit bulky for the project itself...
 How would I approach this?
@@ -44,9 +44,30 @@ ____
 <h3> The Change </h3>
 <img width="825" height="668" alt="First Message" src="Images\4ideachange.png" />
 Maybe the pixel LEDs were still an option? They sounded really cool... the touchscreen issues that I'd have to deal with did not.
-So, I ended up joining the KiCad Discord to ask for their opinions. (And Instagram, but the images below are gonna be Discord communications)
+So, I ended up joining the KiCad Discord to ask for their opinions.
 <img width="825" height="668" alt="First Message" src="Images\5ideachange.png" />
-Microcontroller? What the heck is a TFT...
+TFT and microcontroller? I was thinking to use a raspberry pi or arduino... mini computers.
+<img width="825" height="668" alt="First Message" src="Images\6ideachange.png" />
+<img width="825" height="668" alt="First Message" src="Images\7ideachange.png" />
+Finally, I drew a diagram.
+<img width="825" height="668" alt="First Message" src="Images\8whattheheeeehllllll.png" />
+💀 Don't worry I was flamed for this respectfully.
+But I also learned a lot from our conversation and got advice on what to do.
+Then after a conversation on Slack, I was convinced.
+I should do idea 1.
+Idea 2 was elimated.
+____
 
+<h3> The New Research </h3>
+I took more notes on eletrics after asking a few friends on Instagram, Discord, and Slack!
+<img width="825" height="668" alt="First Message" src="Images\9notes.png" />
+<img width="825" height="668" alt="First Message" src="Images\10notes.png" />
+____
 
+<h3> Time for CAD </h3>
+<img width="825" height="668" alt="First Message" src="Images\11CAD.png" />
+<img width="825" height="668" alt="First Message" src="Images\12CAD.png" />
+I needed a sliding mechanism (or so I thought) to attach the top and bottom so I could load the inside with electronics.
+After MANY revisions and advise I got on doing a dove-tail joint (which was a super cool idea), I decided to just go with screws as this is a test + I'm on a time constraint :C
+<img width="825" height="668" alt="First Message" src="Images\13CAD.png" />
 _____________________________________________________________________________________________
