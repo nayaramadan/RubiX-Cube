@@ -105,4 +105,5 @@ And Ultimate Notes + BOM!
 
 
 Thank you for reading :D
+Estimated total hours: 17-19 (research)
 _____________________________________________________________________________________________
