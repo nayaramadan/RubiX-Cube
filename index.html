@@ -1,1 +1,7 @@
-eeeeeeeeeeeeeeeeeeeeeeeeeeedeeeeeeeeeeeeeeeeee
+<!DOCTYPE html>
+<h1>3x3 Scramble</h1>
+<h2 id="scramble">Generating...</h2>
+<script type="module">
+  import { randomScrambleForEvent } from "https://cubing.net";
+  document.getElementById("scramble").innerText = (await randomScrambleForEvent("333")).toString();
+</script>
